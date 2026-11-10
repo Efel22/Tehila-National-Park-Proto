@@ -72,3 +72,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Stylized_PBR_Nature/Maps/Stylized_Nature_ExampleScene.umap
+Content/Stylized_PBR_Nature/Maps/Asset_Scene.umap
